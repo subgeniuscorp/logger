@@ -1,0 +1,23 @@
+{
+  "name": "@subgeniuscorp/logger",
+  "version": "1.0.0",
+  "description": "A light abstraction over [Pino](https://github.com/pinojs/pino).",
+  "main": "src/index.js",
+  "dependencies": {
+    "pino": "^6.11.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subgeniuscorp/logger.git"
+  },
+  "author": "Nikhil Vijayan <nkhilv@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/subgeniuscorp/logger/issues"
+  },
+  "homepage": "https://github.com/subgeniuscorp/logger#readme"
+}
