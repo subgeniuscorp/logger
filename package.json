@@ -1,6 +1,6 @@
 {
   "name": "@subgeniuscorp/logger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A light abstraction over [Pino](https://github.com/pinojs/pino).",
   "main": "src/index.js",
   "dependencies": {
